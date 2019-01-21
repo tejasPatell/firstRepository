@@ -7,3 +7,6 @@ c++
 
 Machine Learning
 Neural network
+
+
+AI
