@@ -10,3 +10,5 @@ Neural network
 
 
 AI
+
+complete all chages by example 1
